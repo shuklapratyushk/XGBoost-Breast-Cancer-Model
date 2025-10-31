@@ -13,5 +13,3 @@ Predicts breast cancer diagnosis from lab results using XGBoost and explains mod
 3. Train model in `trainXGBoost.ipynb`
 4. Interpret model with `shapExplanation.ipynb`
 
-
-

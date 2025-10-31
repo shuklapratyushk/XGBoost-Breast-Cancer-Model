@@ -6,8 +6,6 @@ env/
 venv/
 .env
 .ipynb_checkpoints/
-outputs/
-data/raw/
 data/external/
 *.sqlite3
 
