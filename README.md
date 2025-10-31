@@ -5,7 +5,6 @@ Predicts breast cancer diagnosis from lab results using XGBoost and explains mod
 - `data/` – Raw and processed datasets (ignored in Git)
 - `notebooks/` – Jupyter notebooks: cleaning, EDA, training, SHAP
 - `outputs/` – Figures and model artifacts (ignored in Git)
-- `src/` – Optional Python scripts for reusable code
 
 ## Usage
 
@@ -13,5 +12,6 @@ Predicts breast cancer diagnosis from lab results using XGBoost and explains mod
 2. Explore features in `dataAnalysis.ipynb`
 3. Train model in `trainXGBoost.ipynb`
 4. Interpret model with `shapExplanation.ipynb`
+
 
 
