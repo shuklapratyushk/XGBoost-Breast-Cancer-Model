@@ -9,8 +9,9 @@ Predicts breast cancer diagnosis from lab results using XGBoost and explains mod
 
 ## Usage
 
-1. Open `notebooks/01-data-cleaning.ipynb` to prepare data
-2. Explore features in `02-eda.ipynb`
-3. Train model in `03-train-xgboost.ipynb`
-4. Interpret model with `04-shap-explainability.ipynb`
+1. Open `notebooks/dataCleaning.ipynb` to prepare data
+2. Explore features in `dataAnalysis.ipynb`
+3. Train model in `trainXGBoost.ipynb`
+4. Interpret model with `shapExplanation.ipynb`
+
 
